@@ -1,2 +1,2 @@
 #shortly-express
-This was a fun practice project with a pair.
+This was a bit.ly clone application made with a pair and refactored to use Express.
